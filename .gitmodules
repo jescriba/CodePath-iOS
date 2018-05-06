@@ -1,27 +1,27 @@
 [submodule "TwitterClient"]
 	path = TwitterClient
-	url = git@github.com:jescriba/TwitterClient.git
+	url = https://github.com/jescriba/TwitterClient.git
 [submodule "Flicks"]
 	path = Flicks
-	url = git@github.com:jescriba/Flicks.git
+	url = https://github.com/jescriba/Flicks.git
 [submodule "TipCalculator"]
 	path = TipCalculator
-	url = git@github.com:jescriba/TipCalculator.git
+	url = https://github.com/jescriba/TipCalculator.git
 [submodule "InstaTumblr"]
 	path = InstaTumblr
-	url = git@github.com:jescriba/InstaTumblr.git
+	url = https://github.com/jescriba/InstaTumblr.git
 [submodule "Tinder"]
 	path = Tinder
-	url = git@github.com:jescriba/Tinder.git
+	url = https://github.com/jescriba/Tinder.git
 [submodule "Canvas"]
 	path = Canvas
-	url = git@github.com:jescriba/Canvas.git
+	url = https://github.com/jescriba/Canvas.git
 [submodule "ChatClientDemo"]
 	path = ChatClientDemo
-	url = git@github.com:jescriba/ChatClientDemo.git
+	url = https://github.com/jescriba/ChatClientDemo.git
 [submodule "ios_yelp_swift"]
 	path = ios_yelp_swift
-	url = git@github.com:jescriba/ios_yelp_swift.git
+	url = https://github.com/jescriba/ios_yelp_swift.git
 [submodule "ios_github_demo"]
 	path = ios_github_demo
-	url = git@github.com:jescriba/ios_github_demo.git
+	url = https://github.com/jescriba/ios_github_demo.git
