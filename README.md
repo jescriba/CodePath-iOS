@@ -1,3 +1,5 @@
+# iOS Sample Projects
+
 Collection of iOS projects completed during CodePath iOS classes
 
 TwitterClient - Twitter Clone using Twitter API
